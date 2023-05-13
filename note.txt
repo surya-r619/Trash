@@ -1,0 +1,9 @@
+
+-------- 13/MAY/2023----------
+=> saturday
+
+pthreads
+mutex (sync)
+fork (creating multiple child process)
+raspberry pi (led blinking)
+
